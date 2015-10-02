@@ -1,6 +1,9 @@
 # OctoPrint App Companion
 
-The companion plugin to the OctoPrint App for Android.
+The official companion plugin for the [OctoPrint App for Android](https://github.com/bq/OctoPrint-AndroidApp)
+allows API-key less connection between the App and the OctoPrint installation.
+
+Makes initial setup way easier by [registering the App within OctoPrint](http://docs.octoprint.org/en/master/api/apps.html#apps).
 
 ## Setup
 

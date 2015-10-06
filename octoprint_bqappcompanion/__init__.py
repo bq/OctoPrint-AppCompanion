@@ -15,7 +15,7 @@ class BqAndroidAppCompanionPlugin(octoprint.plugin.OctoPrintPlugin):
 
 	def get_update_configuration(self, *args, **kwargs):
 		return dict(
-			requestspinner=dict(
+			bqappcompanion=dict(
 				displayName="BQ Android App Companion Plugin",
 				displayVersion=self._plugin_version,
 
